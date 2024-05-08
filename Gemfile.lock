@@ -272,6 +272,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
   minima
   rake
   webrick
