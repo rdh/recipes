@@ -3,5 +3,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '3.3.0'
 
-gem 'jekyll', '~> 4.3' # https://jekyllrb.com
-gem 'rake', '~> 13.0'  # https://github.com/ruby/rake
+gem "minima"  # https://github.com/jekyll/minima
+gem 'rake'    # https://github.com/ruby/rake
+gem 'webrick' # https://github.com/ruby/webrick
+
+group :jekyll_plugins do
+  gem "github-pages"
+end
