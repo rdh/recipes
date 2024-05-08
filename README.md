@@ -37,8 +37,18 @@ rbenv install $(cat .ruby-version)
 bundle install
 ```
 
+### Development
+
+1: Start the Jekyll server
+```
+jekyll serve
+```
+
+2: Open a browser and navigate to [http://localhost:4000](http://localhost:4000)
+
 ## References
 
 * [Jekyll](https://jekyllrb.com)
 * [Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 * [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+* [Discrepancy between GitHub Pages and locally hosted Jekyll site](https://stackoverflow.com/questions/68991500/discrepancy-between-github-pages-and-locally-hosted-jekyll-site)
