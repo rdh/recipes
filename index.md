@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Recipes
 ---
@@ -54,3 +51,6 @@ title: Recipes
 # Sites
 - [20 Instant Pot Favorite Chinese Takeout Recipes You'll Love](https://www.pressurecookrecipes.com/instant-pot-chinese-takeout-recipes/)
 - [Ministry of Curry: 115+ Quick and Easy Instant Pot Recipes](https://ministryofcurry.com/category/instant-pot/)
+
+# Stove
+- [Fantastic Black Bean Chili](https://www.allrecipes.com/recipe/23336/fantastic-black-bean-chili/)
