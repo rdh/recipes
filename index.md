@@ -8,6 +8,7 @@ title: Recipes
 - [Butter Chickpeas ](https://myheartbeets.com/instant-pot-butter-chickpeas-vegan-butter-chicken/#wprm-recipe-container-10038)
 - [Chicken and Dumplings](https://recipes.instantpot.com/recipe/chicken-and-dumplings/)
 - [Chicken Biryani](https://ministryofcurry.com/chicken-biryani-instant-pot/)
+- [Frozen Meatballs](https://eatinginstantly.com/instant-pot-frozen-meatballs/#recipe)
 - [Lemon Chicken](https://lifemadesweeter.com/instant-pot-lemon-garlic-chicken/)
 - [Pav Bhaji](https://ministryofcurry.com/pav-bhaji/)
 - [Pork Carnitas](https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/#tasty-recipes-60482)
