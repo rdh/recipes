@@ -30,6 +30,7 @@ title: Recipes
 - [Butternut Cauliflower Soup](https://peasandcrayons.com/2016/09/pressure-cooker-butternut-cauliflower-soup.html?fbclid=IwAR3p9h-z1UXBj-87Cyebxg9NVJl1U1QsG_daRC3z7D_aj6S9Ecfm7mO6Jss)
 - [Cauliflower Soup](https://kalynskitchen.com/instant-pot-low-carb-loaded-cauliflower-soup/)
 - [Chicken and Rice Soup](https://ifoodreal.com/healthy-chicken-wild-rice-soup/)
+- [Egg Drop Soup](https://www.thekitchn.com/egg-drop-soup-recipe-23684372)
 - [Hamburger Soup](https://www.crunchycreamysweet.com/instant-pot-hamburger-soup/)
 - [Healthy Veggie Soup](https://www.crunchycreamysweet.com/instant-pot-weight-loss-vegetable-soup-recipe/)
 - [Hot & Sour Soup](https://pressureluckcooking.com/recipe/instant-pot-hot-sour-soup/)
