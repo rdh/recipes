@@ -33,7 +33,7 @@ title: Recipes
 - [Egg Drop Soup](https://www.thekitchn.com/egg-drop-soup-recipe-23684372)
 - [Hamburger Soup](https://www.crunchycreamysweet.com/instant-pot-hamburger-soup/)
 - [Healthy Veggie Soup](https://www.crunchycreamysweet.com/instant-pot-weight-loss-vegetable-soup-recipe/)
-- [Hot & Sour Soup](https://pressureluckcooking.com/recipe/instant-pot-hot-sour-soup/)
+- [Hot & Sour Soup](https://www.pressurecookrecipes.com/instant-pot-hot-and-sour-soup/#recipe)
 - [Minestrone Soup](https://lifemadesweeter.com/instant-pot-minestrone-soup/)
 - [Potato Soup](https://www.delish.com/cooking/recipe-ideas/a25238472/instant-pot-potato-soup/)
 - [Split Pea Soup](https://www.delish.com/cooking/recipe-ideas/a25325139/instant-pot-split-pea-soup/)
