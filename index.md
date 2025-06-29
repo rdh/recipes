@@ -41,6 +41,7 @@ title: Recipes
 - [Thai Soup With Corn & Zucchini](https://instantpoteats.com/instant-pot-thai-soup-with-corn-zucchini/#recipe)
 
 # Oven
+- [Banana Bread](https://natashaskitchen.com/banana-bread-recipe-video/)
 - [Easy Baked Chicken Thighs](https://www.thekitchn.com/how-to-cook-chicken-thighs-recipe-23575992)
 - [Ginger Molasses Cookies](https://www.bostonchefs.com/recipe/joanne-changs-ginger-molasses-cookies/)
 - [Meatloaf](https://www.spendwithpennies.com/best-meatloaf-recipe/#wprm-recipe-container-140708)
