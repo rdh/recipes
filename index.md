@@ -17,6 +17,7 @@ title: Recipes
 
 ## Desserts
 - [Cheesecake](https://www.ourpaleolife.com/instant-pot-low-carb-cheesecake-keto-primal/)
+- [Tiramisu](https://tastesbetterfromscratch.com/easy-tiramisu/)
 
 ## Sides
 - [Cauliflower](https://realfoodrealdeals.com/instant-pot-cauliflower/)
